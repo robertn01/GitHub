@@ -12,7 +12,7 @@ Currently completing a **Clinical Data Science PhD project** that addresses the 
 
 * improving and validating the current method used for estimating the budgetary impact of implementing innovative but often costly Oncology drugs in secondary breast cancer care. 
 
-The decision-analytic tool is to be implemented (primarily) in [R/Studio](https://rstudio.com/){:target="_blank"}.
+The decision-analytic tool is to be implemented (primarily) in [R/Studio](https://rstudio.com/){:target="_blank"} .
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
