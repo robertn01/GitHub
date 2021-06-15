@@ -5,4 +5,6 @@
 layout: home
 ---
 
-*This website is currently under construction*
+*This website is currently under construction.*
+
+![Under construction](https://github.com/robertn01/GitHub/blob/gh-pages/images/website_under_construction.jpeg "Under construction")
