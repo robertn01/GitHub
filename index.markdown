@@ -7,6 +7,6 @@ img_path: GitHub/images/website_under_construction.jpeg
 layout: home
 ---
 
-*This website is currently under construction.*
+*This website is currently under (re-)construction.*
 
 ![Under construction]( https://github.com/robertn01/GitHub/blob/gh-pages/images/website_under_construction.jpeg?raw=true)
